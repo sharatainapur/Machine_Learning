@@ -6,5 +6,6 @@ Introduction_to_Numpy.ipynb
 - One-dimensional Array
 - Multi-dimensional Array
 - Randomly generated Array
-- Summarizing using functions like min max sum and avg
-
+- Element wise operations on numpy Arrays
+- Comparison Operations on the numpy Arrays
+- Summarizing using functions like min max sum mean and std
