@@ -9,3 +9,9 @@ Introduction_to_Numpy.ipynb
 - Element wise operations on numpy Arrays
 - Comparison Operations on the numpy Arrays
 - Summarizing using functions like min max sum mean and std
+
+
+Introduction_to_Seaborn.ipynb
+- Scatterplot
+- Countplot
+- Scatterplot with hue field - color coding.
